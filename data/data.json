@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Spider Man 2",
+    "year": 2005,
+    "genre": "Action"
+  },
+  {
+    "id": 2,
+    "title": "Interview with a Vampire",
+    "year": 1994,
+    "genre": "Horror"
+  },
+  {
+    "id": 3,
+    "title": "The Lord of The Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genre": "Adventure"
+  },
+  {
+    "id": 4,
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "genre": "Thriller"
+  },
+  {
+    "id": 5,
+    "title": "Iron Man",
+    "year": 2008,
+    "genre": "Action"
+  },
+  {
+    "id": 6,
+    "title": "Terminator",
+    "year": 1984,
+    "genre": "Sci-Fi"
+  }
+]
